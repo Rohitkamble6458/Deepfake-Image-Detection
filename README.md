@@ -150,6 +150,18 @@ LIME (Local Interpretable Model-agnostic Explanations) is implemented to provide
 This project demonstrates the effective application of deep learning for detecting deepfake images with good accuracy and interpretability. Its integration into a web application improves accessibility and practical usage in media forensics and content verification.
 
 ---
+## 🖼️ Screenshots
+🔹 System Workflow (DFD)
+
+🔹 Custom CNN Architecture
+
+🔹 Model Explainability with LIME
+
+🔹 Web Application Interface
+
+🔹 Detection Results
+
+---
 
 ## Future Work
 
