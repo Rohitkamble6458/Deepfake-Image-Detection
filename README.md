@@ -137,7 +137,7 @@ LIME (Local Interpretable Model-agnostic Explanations) is implemented to provide
 
 ## Limitations
 
-- Model accuracy depends on the quality and diversity of training data. Insufficient datasets may reduce generalization.  
+- Model accuracy depends on the quality and diversity of training data. Insufficient datasets may reduce generalisation.  
 - Computation-intensive models require powerful hardware or GPU acceleration for timely inference.  
 - Explanation techniques improve transparency but cannot fully resolve deep model interpretability issues.  
 - Local host deployment limits accessibility compared to cloud solutions.  
@@ -150,17 +150,26 @@ LIME (Local Interpretable Model-agnostic Explanations) is implemented to provide
 This project demonstrates the effective application of deep learning for detecting deepfake images with good accuracy and interpretability. Its integration into a web application improves accessibility and practical usage in media forensics and content verification.
 
 ---
-## 🖼️ Screenshots
-🔹 System Workflow (DFD)
+## 🖼️ Screenshots  
 
-🔹 Custom CNN Architecture
+### System Workflow (DFD)  
+![System Workflow (DFD)](DFD.png)  
 
-🔹 Model Explainability with LIME
+### Custom CNN Architecture  
+![Custom CNN Architecture](Model_Architure.png)  
 
-🔹 Web Application Interface
+### Model Explainability with LIME  
+![Model Explainability with LIME](LIME.png)  
 
-🔹 Detection Results
+### Web Application Interface  
+![Web Application Interface](Simple-User-interface.png)  
 
+### Detection Results  
+**Fake Image**  
+![Fake Image](Result_FAKE.png)  
+
+**Real Image**  
+![Real Image](Result_REAL.png) 
 ---
 
 ## Future Work
