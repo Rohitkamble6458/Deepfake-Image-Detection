@@ -158,7 +158,7 @@ This project demonstrates the effective application of deep learning for detecti
 - Improve interpretability with more advanced explainability tools.  
 - Develop automated model update mechanisms to adapt to emerging deepfake techniques.  
 - Broaden deployment to cloud platforms and mobile applications.  
-- Collaborate with policymakers and media organizations for ethical use guidelines and wider adoption.
+- Collaborate with policymakers and media organisations for ethical use guidelines and wider adoption.
 
 ---
 
@@ -166,6 +166,4 @@ This project demonstrates the effective application of deep learning for detecti
 
 Rohit Kamble - [LinkedIn Profile](https://www.linkedin.com/in/rohitkamble6458/) - rohitkamble6458gmail.com
 
-Project Link: [https://github.com/Rohitkamble6458/Deepfake-Image-Detection](https://github.com/Rohitkamble6458/Deepfake-Image-Detection)
-
-*This README is based wholly on the submitted dissertation report titled "Deepfake Image Detection" by Rohit Kamble, MCA IV Semester, July 2024.*  
+Project Link: [Deepfake Image Detection](https://github.com/Rohitkamble6458/Deepfake-Image-Detection)
